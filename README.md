@@ -144,7 +144,7 @@ These KPIs update dynamically based on selected filters.
 
     project-folder
     │
-    ├── app2.py
+    ├── app.py
     ├── SuperStoreOrders - SuperStoreOrders.csv
     ├── README.md
 
@@ -162,7 +162,7 @@ These KPIs update dynamically based on selected filters.
 
 ### 3️⃣ Run the application
 
-    streamlit run app2.py
+    streamlit run app.py
 
 The dashboard will open automatically in your browser.
 
