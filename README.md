@@ -154,7 +154,7 @@ These KPIs update dynamically based on selected filters.
 
 ### 1️⃣ Clone the repository
 
-    git clone https://github.com/yourusername/superstore-bi-dashboard.git
+    git clone https://github.com/Pat200440/patrick-analytics.git
 
 ### 2️⃣ Install dependencies
 
